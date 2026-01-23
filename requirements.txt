@@ -1,0 +1,15 @@
+SpeechRecognition
+pyaudio
+requests
+python-dotenv
+colorama
+edge-tts
+pygame
+google-generativeai
+groq
+flask
+flask-socketio
+eventlet
+opencv-python
+ultralytics
+pillow
